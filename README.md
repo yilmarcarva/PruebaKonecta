@@ -6,6 +6,7 @@ Consideraciones a tener encuenta:
 3. Restaurar el script anexo en la carpeta "DB"
 4. El proyecto fue realizado en Visual Code, tener configurado el visual para permitir PHP
 5. Tener instalado las extensiones de "PHP IntelliSense", "PHP Server", "PHP Extension Pack"
+6. las consultas solicitadas son los archivos "MayorStock.sql" y "MasVendido.sql" dentro de la carpeta "BD"
 
 Cordialmente ,
 Yilmar Carvajal
